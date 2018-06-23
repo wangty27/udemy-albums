@@ -1,2 +1,2 @@
 # udemy-albums
-A React Native App following Udemy tutorial
+A Cross-platform App following Udemy tutorial built with React Native
